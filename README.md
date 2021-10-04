@@ -1,6 +1,6 @@
 # Primeiras considerações
 
-Sistema desenvolvido como teste de conhecimento. Tecnologias envolvidas: JavaScript(ES), MySql, Autenticação, React, JEST e Cypress. Você pode clonar esse repositório e seguir os passos para testá-la, avaliá-la ou melhorá-la.
+Sistema desenvolvido como teste de conhecimento. Tecnologias envolvidas: JavaScript(ES), PostgreSql, Autenticação, React, JEST e Cypress. Você pode clonar esse repositório e seguir os passos para testá-la, avaliá-la ou melhorá-la.
 
 - Antes de iniciarmos, seria interessante estar bem familiarizado com as tecnologias supracitadas;
 
