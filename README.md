@@ -6,6 +6,11 @@ Sistema desenvolvido como teste de conhecimento. Tecnologias envolvidas: JavaScr
 
 - Pode testar com autenticação (ClientHTTP) ou com os testes unitários.
 
+- Front-end que integra com essa API: 
+>https://github.com/lucasdias08/front-venx-challenge
+
+- Seguir o passo a passo para clonar e executar, caso queira.
+
 ## Preparando ambiente
 
 - __1.__ Clone esse repositório e o abra em seu editor de texto preferido, caso queira;
