@@ -50,7 +50,7 @@ O Insert já foi realizado via SEEDERS e não era necessário uma rota para inse
 >localhost:8080/
 
 - __Rota GET__. Espera-se que retorne todos os usuários e seus dados cadastrados, no formato JSON, com limite inicial de 50. O aprâmetro "limit" é opcional, mas, caso opte, ele limitará quantos indices devem vir na requisição;
->localhost:8080/product/{limit?}
+>localhost:8080/users/{limit?}
 
 - __Rota GET__, __parametrizada__. Espera-se que retorne o usuário especificado pelo id na forma de parametro, no formato JSON;
 >localhost:8080/users/{id_user}
