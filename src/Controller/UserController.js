@@ -63,14 +63,14 @@ class UserController {
       
       if (user_updated) {
         res.status(200).send({
-          message: "Usuário atualizado com sucesso!",
+          message: "user updated successfully!",
           user_update: user_updated
         });
       }
 
     } else {
       res.status(400).send({
-        message: "Erro ao tentar atualizar usuário!"
+        message: "Error trying to update user!"
       });
     }
   }
